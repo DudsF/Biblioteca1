@@ -9,7 +9,7 @@
 <title>Cadastro de Alunos</title>
 </head>
 <body>
-<form action="Biblioteca" id="formulario">
+<form action="Bibliot" id="formulario">
 	
 		<h2>Adicionar aluno:</h2>
 	
